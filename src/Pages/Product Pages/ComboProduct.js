@@ -382,7 +382,7 @@ const ComboProduct = () => {
     }, []);
 
     useEffect(() => {
-        document.title = "combo";
+        document.title = "Combo Offer";
     }, []);
 
     return (
@@ -394,7 +394,7 @@ const ComboProduct = () => {
             <Navbar color="#000" />
             <Box sx={{ bgcolor: "#fff", pt: [1, 2] }}>
                 <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', px: [2, 5, 4] }}>
-                    <Title color={INK}>combo</Title>
+                    <Title color={INK}>Combo Offer</Title>
                     <Stack direction="row" alignItems="center" spacing={1} sx={{ mt: 0.5, mb: [1, 2] }}>
                         <Box sx={{ width: 28, height: 2, bgcolor: GOLD, borderRadius: 2 }} />
                         <Typography sx={{
