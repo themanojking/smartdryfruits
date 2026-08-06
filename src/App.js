@@ -17,11 +17,11 @@ import ShippingPolicyPage from './Pages/Terms&Conditions Pages/Shipping';
 import ReturnPolicyPage from './Pages/Terms&Conditions Pages/ReturnPolicy';
 import ScrollToTop from './Component/ScrollToTop';
 import ComboProduct from './Pages/Product Pages/ComboProduct';
-import { Analytics } from '@vercel/analytics/react';
+
 const App = () => {
   return (
     <Provider store={store}>
-      <Analytics />
+      
       <BrowserRouter>
         <ScrollToTop />
         <Routes>

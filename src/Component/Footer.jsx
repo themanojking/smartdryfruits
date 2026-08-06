@@ -106,7 +106,7 @@ function Footer() {
       name: "Terms & Conditions",
     },
     {
-      path: "/shipping",
+      path: "/shipping-policy",
       name: "Shipping Policy",
     },
     {
