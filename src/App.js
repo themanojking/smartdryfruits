@@ -21,7 +21,6 @@ import ComboProduct from './Pages/Product Pages/ComboProduct';
 const App = () => {
   return (
     <Provider store={store}>
-      
       <BrowserRouter>
         <ScrollToTop />
         <Routes>
