@@ -382,6 +382,18 @@ export const nuts = [
   },
   {
     id: 28,
+    name: "Cashew 180",
+    rating: 4,
+    prices: {
+      "100g": { currentPrice: "₹120", originalPrice: "₹130" },
+      "250g": { currentPrice: "₹300", originalPrice: "₹325" },
+      "500g": { currentPrice: "₹600", originalPrice: "₹650" },
+      "1kg": { currentPrice: "₹1,200", originalPrice: "₹1,300" },
+    },
+    image: "Images/ProductsImages/nuts/Cashew.png",
+  },
+  {
+    id: 29,
     name: "Cashew 240",
     rating: 4,
     prices: {
@@ -393,7 +405,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/Cashew.png",
   },
   {
-    id: 29,
+    id: 30,
     name: "Cashew 320",
     rating: 4,
     prices: {
@@ -405,7 +417,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/Cashew.png",
   },
   {
-    id: 30,
+    id: 31,
     name: "Black Seed Grapes",
     rating: 4,
     prices: {
@@ -417,7 +429,7 @@ export const nuts = [
     image: "/Images/ProductsImages/nuts/BlackSeedGrapes.png",
   },
   {
-    id: 31,
+    id: 32,
     name: "Black Seedless",
     rating: 4,
     prices: {
@@ -429,7 +441,7 @@ export const nuts = [
     image: "/Images/ProductsImages/nuts/BlackSeedles.png",
   },
   {
-    id: 32,
+    id: 33,
     name: "Walnut",
     rating: 4,
     prices: {
@@ -441,7 +453,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/Walnut.png",
   },
   {
-    id: 33,
+    id: 34,
     name: "Makhana Regular",
     rating: 4,
     prices: {
@@ -453,7 +465,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/Makhana.png",
   },
   {
-    id: 34,
+    id: 35,
     name: "Makhana Bold",
     rating: 4,
     prices: {
@@ -465,7 +477,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/Makhana.png",
   },
   {
-    id: 35,
+    id: 36,
     name: "Indian Raisin",
     rating: 4,
     prices: {
@@ -477,7 +489,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/IndianRaisin.png",
   },
   {
-    id: 36,
+    id: 37,
     name: "Green Pista",
     rating: 4,
     prices: {
@@ -489,7 +501,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/GreenPistachio.png",
   },
   {
-    id: 37,
+    id: 38,
     name: "Roasted Pista",
     rating: 4,
     prices: {
@@ -501,7 +513,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/Pistachio.jpeg",
   },
   {
-    id: 38,
+    id: 39,
     name: "Roasted Pista Bold",
     rating: 4,
     prices: {
@@ -513,7 +525,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/Pistachio.jpeg",
   },
   {
-    id: 39,
+    id: 40,
     name: "Brazil Nuts",
     rating: 4,
     prices: {
@@ -525,7 +537,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/BrazilNuts.jpeg",
   },
   {
-    id: 40,
+    id: 41,
     name: "Hazle Nut",
     rating: 4,
     prices: {
@@ -537,7 +549,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/HazleNuts.jpeg",
   },
   {
-    id: 41,
+    id: 42,
     name: "Pecan Nuts",
     rating: 3,
     prices: {
@@ -549,7 +561,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/PecanNuts.png",
   },
   {
-    id: 42,
+    id: 43,
     name: "Macadamia",
     rating: 3,
     prices: {
@@ -561,7 +573,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/Macadamia.png",
   },
   {
-    id: 43,
+    id: 44,
     name: "Pepper Cashew",
     rating: 4,
     prices: {
@@ -573,7 +585,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/PepperCashew.png",
   },
   {
-    id: 44,
+    id: 45,
     name: "Salted Cashew",
     rating: 4,
     prices: {
@@ -585,7 +597,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/SaltedCashew.png",
   },
   {
-    id: 45,
+    id: 46,
     name: "Periperi Cashew",
     rating: 4,
     prices: {
@@ -597,7 +609,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/PeriperiCashew.png",
   },
   {
-    id: 46,
+    id: 47,
     name: "Green Chilli Cashew",
     rating: 4,
     prices: {
@@ -609,7 +621,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/GreenchilliCashew.png",
   },
   {
-    id: 47,
+    id: 48,
     name: "Chilli Cashew",
     rating: 4,
     prices: {
@@ -621,7 +633,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/ChilliCashew.png",
   },
   {
-    id: 48,
+    id: 49,
     name: "Salted Almond",
     rating: 4,
     prices: {
@@ -633,7 +645,7 @@ export const nuts = [
     image: "Images/ProductsImages/nuts/SaltedAlmond.png",
   },
   {
-    id: 49,
+    id: 50,
     name: "Millet Protein",
     rating: 4,
     prices: {
@@ -648,7 +660,7 @@ export const nuts = [
 
 export const seeds = [
   {
-    id: 50,
+    id: 51,
     name: "Pumpkin Seed",
     rating: 5,
     prices: {
@@ -660,7 +672,7 @@ export const seeds = [
     image: "Images/ProductsImages/seeds/PumpkinSeeds.png",
   },
   {
-    id: 51,
+    id: 52,
     name: "Sunflower Seed",
     rating: 5,
     prices: {
@@ -672,7 +684,7 @@ export const seeds = [
     image: "Images/ProductsImages/seeds/SunflowerSeeds.png",
   },
   {
-    id: 52,
+    id: 53,
     name: "Watermelon Seed",
     rating: 5,
     prices: {
@@ -684,7 +696,7 @@ export const seeds = [
     image: "Images/ProductsImages/seeds/WatermelonSeeds.png",
   },
   {
-    id: 53,
+    id: 54,
     name: "Chia Seeds",
     rating: 5,
     prices: {
@@ -696,7 +708,7 @@ export const seeds = [
     image: "Images/ProductsImages/seeds/ChiaSeeds.png",
   },
   {
-    id: 54,
+    id: 55,
     name: "Flax Seed",
     rating: 5,
     prices: {
@@ -708,7 +720,7 @@ export const seeds = [
     image: "Images/ProductsImages/seeds/FlaxSeeds.png",
   },
   {
-    id: 55,
+    id: 56,
     name: "Cucumber Seed",
     rating: 5,
     prices: {
@@ -720,7 +732,7 @@ export const seeds = [
     image: "Images/ProductsImages/seeds/CucumberSeeds.png",
   },
   {
-    id: 56,
+    id: 57,
     name: "Halim Seed",
     rating: 5,
     prices: {
@@ -732,7 +744,7 @@ export const seeds = [
     image: "Images/ProductsImages/seeds/HalimSeeds.png",
   },
   {
-    id: 57,
+    id: 58,
     name: "Basil (Sabja) Seed",
     rating: 5,
     prices: {
@@ -744,7 +756,7 @@ export const seeds = [
     image: "Images/ProductsImages/seeds/SabjaSeeds.png",
   },
   {
-    id: 58,
+    id: 59,
     name: "White Sesame",
     rating: 5,
     prices: {
@@ -756,7 +768,7 @@ export const seeds = [
     image: "Images/ProductsImages/seeds/WhiteSesameSeeds.png",
   },
   {
-    id: 59,
+    id: 60,
     name: "Mixed Roasted Seeds",
     rating: 5,
     prices: {
@@ -771,7 +783,7 @@ export const seeds = [
 
 export const dates = [
   {
-    id: 60,
+    id: 61,
     name: "Kimia Dates",
     rating: 5,
     prices: {
@@ -783,7 +795,7 @@ export const dates = [
     image: "Images/ProductsImages/dates/KimiaDates.png",
   },
   {
-    id: 61,
+    id: 62,
     name: "Muscat Dates",
     rating: 5,
     prices: {
@@ -795,7 +807,7 @@ export const dates = [
     image: "Images/ProductsImages/dates/MuscatDates.png",
   },
   {
-    id: 62,
+    id: 63,
     name: "Kalima Dates",
     rating: 5,
     prices: {
@@ -807,7 +819,7 @@ export const dates = [
     image: "Images/ProductsImages/dates/KalimaDates.png",
   },
   {
-    id: 63,
+    id: 64,
     name: "Mabroom Dates",
     rating: 5,
     prices: {
@@ -819,7 +831,7 @@ export const dates = [
     image: "Images/ProductsImages/dates/MabroomDates.png",
   },
   {
-    id: 64,
+    id: 65,
     name: "Ajwa Bold Dates",
     rating: 5,
     prices: {
@@ -831,7 +843,7 @@ export const dates = [
     image: "Images/ProductsImages/dates/AjwaBoldDates.png",
   },
   {
-    id: 65,
+    id: 66,
     name: "Ajwa Regular",
     rating: 5,
     prices: {
@@ -843,7 +855,7 @@ export const dates = [
     image: "Images/ProductsImages/dates/AjwaDates.png",
   },
   {
-    id: 66,
+    id: 67,
     name: "Medjool Dates",
     rating: 5,
     prices: {
@@ -855,7 +867,7 @@ export const dates = [
     image: "Images/ProductsImages/dates/MedjuolDates.png",
   },
   {
-    id: 67,
+    id: 68,
     name: "Zahadi Dates",
     rating: 5,
     prices: {
@@ -867,7 +879,7 @@ export const dates = [
     image: "Images/ProductsImages/dates/ZahadiDates.png",
   },
   {
-    id: 68,
+    id: 69,
     name: "Tunisian Dates",
     rating: 5,
     prices: {
@@ -879,7 +891,7 @@ export const dates = [
     image: "Images/ProductsImages/dates/TunisianDates.png",
   },
   {
-    id: 69,
+    id: 70,
     name: "Barari Dates",
     rating: 5,
     prices: {
@@ -891,7 +903,7 @@ export const dates = [
     image: "Images/ProductsImages/dates/BarariDates.png",
   },
   {
-    id: 70,
+    id: 71,
     name: "Amber Dates",
     rating: 5,
     prices: {
@@ -903,7 +915,7 @@ export const dates = [
     image: "Images/ProductsImages/dates/AmberDates.png",
   },
   {
-    id: 71,
+    id: 72,
     name: "Smart Seedless Dates",
     rating: 5,
     prices: {
@@ -919,7 +931,7 @@ export const dates = [
 
 export const combo = [
   {
-    id: 72,
+    id: 73,
     name: "Combo Offer",
     rating: 5,
     contents: ["Pumpkin", "Sunflower", "Chia", "Flax", "Watermelon", "Cucumber"],

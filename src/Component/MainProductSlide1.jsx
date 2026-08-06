@@ -38,7 +38,7 @@ const BANNERS = [
   },
   {
     id: 5,
-    image_url: "Images/BannerImages/Mobile.png",
+    image_url: "Images/BannerImages/Combo.png",
     link: "/combo",
     is_active: true,
   },
