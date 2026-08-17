@@ -595,6 +595,8 @@ const Cart = () => {
 
         window.open(whatsappUrl, '_blank');
         setCheckoutOpen(false);
+        // Order has been sent — empty the cart so it doesn't persist after checkout.
+        dispatch(clearCart());
     };
 
     return (
