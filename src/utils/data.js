@@ -274,7 +274,7 @@ export const dryfruits = [
     name: "Blueberry",
     rating: 5,
     prices: { "100g": { currentPrice: "₹150", originalPrice: "₹165" }, "250g": { currentPrice: "₹375", originalPrice: "₹400" }, "500g": { currentPrice: "₹750", originalPrice: "₹800" }, "1kg": { currentPrice: "₹1,500", originalPrice: "₹1,600" } },
-    image: "Images/ProductsImages/dryFruits/Blueberry.png",
+    image: "Images/ProductsImages/dryFruits/blueberry.png",
   },
   {
     id: 15,
